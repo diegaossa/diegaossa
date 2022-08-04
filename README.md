@@ -1,8 +1,8 @@
 
 ### - 🤔 Olá, eu me chamo Diego Araujo. 👋
-### - 🔭 Hoje eu trabalho como Designer Gráfico.
-### - 🌱 Estudante iniciante em HTML-CSS, JAVASCRIPT.
-### - 📚 Atualmente estudando na B7WEB;.
+- 🔭 Hoje eu trabalho como Designer Gráfico.
+- 🌱 Estudante iniciante em HTML-CSS, JAVASCRIPT.
+- 📚 Atualmente estudando na B7WEB;.
 ##
 <br>
 
